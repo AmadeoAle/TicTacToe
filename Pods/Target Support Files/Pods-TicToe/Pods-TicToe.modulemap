@@ -1,0 +1,6 @@
+framework module Pods_TicToe {
+  umbrella header "Pods-TicToe-umbrella.h"
+
+  export *
+  module * { export * }
+}
